@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Movie Catalouge Sub2</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_movie">Movie</string>
+    <string name="title_tv">TV Show</string>
+    <string name="movie_title">Movie Title</string>
+    <string name="release_date">Release Date</string>
+    <string name="overview">Overview</string>
+    <string name="runtime">Runtime</string>
+    <string name="directorName">Director Name</string>
+    <string name="label_director">Director</string>
+    <string name="network">Network</string>
+    <string name="genre">Genre</string>
+    <string name="change_language_settings">Change Language Settings</string>
+
+
+</resources>
